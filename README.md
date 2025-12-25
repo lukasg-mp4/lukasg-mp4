@@ -15,5 +15,5 @@ Python | MQL5 | Rust (learning) | C# | HTML | CSS | JavaScript | Kotlin | Flask 
 Developing a web browser in Rust.
 
 ## Contact
-Email: [aquaportfolio.ie@gmail.com](mailto:aquaportfolio.ie@gmail.com)  
-Discord: aquamp4
+Email: [lukasgportofolio@gmail.com](mailto:lukasgportfolio@gmail.com)  
+Discord: lukas.127
