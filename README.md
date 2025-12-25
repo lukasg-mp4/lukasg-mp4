@@ -1,6 +1,6 @@
 # Hi, I'm Lukas
 
-I am a fullstack developer. I usually work alone and focus on building tools and software that try to reduce redundant tasks. I tend to work on projects that interest me or solve a specific problem I encounter.
+I am a fullstack developer. I usually work alone and focus on building tools and software that try to make workflows more efficient or expand my knowledge. I tend to work on projects that interest me or solve a specific problem I encounter.
 
 ## About Me
 - I primarily use Python, MQL5 and Rust.  
