@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Lukas
 
-<!--
-**lukasg-mp4/lukasg-mp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fullstack developer. I usually work alone and focus on building tools and software that try to reduce redundant tasks. I tend to work on projects that interest me or solve a specific problem I encounter.
 
-Here are some ideas to get you started:
+## About Me
+- I primarily use Python, MQL5 and Rust.  
+- I also have experience with C#, HTML, CSS, JavaScript, and Kotlin for Android development.   
+- My previous work includes websites, networked Python applications using Flask and Waitress, mods for games such as adding multiplayer to Shapez 2, and trading bots written in MQL5 for MetaTrader 5.  
+- I write code to improve my workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+Python | MQL5 | Rust (learning) | C# | HTML | CSS | JavaScript | Kotlin | Flask | Waitress | Windows | VS Code
+
+## Current Project
+Developing a web browser in Rust.
+
+## Contact
+Email: [aquaportfolio.ie@gmail.com](mailto:aquaportfolio.ie@gmail.com)  
+Discord: aquamp4
